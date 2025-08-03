@@ -21,8 +21,9 @@ This project uses a classification model (Random Forest Classifier) trained on a
 
 ##  Project Structure
 
-├── loan_app.py              # Streamlit UI
-├── loan_approval_model.pkl  # Trained Random Forest
-├── data/                    # Raw CSV (optional)
-├── notebook/                # EDA & training workflow
+├── loan_app.py              # Streamlit UI  
+├── loan_approval_model.pkl  # Trained Random Forest  
+├── data/                    # Raw CSV (optional)  
+├── notebook/                # EDA & training workflow  
 └── requirements.txt
+
